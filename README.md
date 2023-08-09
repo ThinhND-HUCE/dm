@@ -1,2 +1,2 @@
-# TOÁN RỜI RẠC
-* Sinh viên vào xem thông báo **1 ngày** trước mỗi buổi học
+# DISRETE MATHEMATICS
+* Students see the notice **1 day** before each lesson
